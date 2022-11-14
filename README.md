@@ -1,4 +1,4 @@
-#### Python Implementation of huffman coding by Karan Hadiyal
+#### Python Implementation of Text file compressor by Karan Hadiyal
 
 
 It can compress and decompress any text file.
